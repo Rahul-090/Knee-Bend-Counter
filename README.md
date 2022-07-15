@@ -2,11 +2,12 @@
 
 
 ## STEPS:
-* [Configuring the Media Pipe]
-* [Estimating poses](#Estimating-poses)
-* [Extracting joint coordinates](#Extraction-of-Joint-Coordinates)
-* [Calculating angles between joints](#Calculating-angles-between-joints)
-* [Counter,Time holder(8 seconds)](#Counter,Time-holder(8-seconds))
+* Setting up Mediapipe
+* Estimating poses
+* Extracting joint coordinates
+* Calculating angles between joints
+* Counter,Time holder(8 seconds)
+
 
 
 
