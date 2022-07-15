@@ -2,7 +2,7 @@
 
 
 ## STEPS:
-* [Configuring the Media Pipe](#Configuring-the-Media-Pipe)
+* [Configuring the Media Pipe]
 * [Estimating poses](#Estimating-poses)
 * [Extracting joint coordinates](#Extraction-of-Joint-Coordinates)
 * [Calculating angles between joints](#Calculating-angles-between-joints)
