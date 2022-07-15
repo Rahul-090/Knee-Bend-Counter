@@ -2,7 +2,7 @@
 
 
 ## STEPS:
-* Setting up Mediapipe
+* Configuring the Media Pipe
 * Estimating poses
 * Extracting joint coordinates
 * Calculating angles between joints
