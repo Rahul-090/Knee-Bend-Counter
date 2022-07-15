@@ -1,12 +1,12 @@
 #				 Knee Bend Exercise
 
 
-# STEPS:
-* [Setting up Mediapipe](#setting)
-* [Estimating poses](#estimating)
-* [Extracting joint coordinates](#extracting)
-* [Calculating angles between joints](#angles)
-* [Counter,Time holder(8 seconds)](#counter)
+## STEPS:
+* [Configuring the Media Pipe](#Configuring the Media Pipe)
+* [Estimating poses](#Estimating poses)
+* [Extracting joint coordinates](#Extraction of Joint Coordinates)
+* [Calculating angles between joints](#Calculating angles between joints)
+* [Counter,Time holder(8 seconds)](#Counter,Time holder(8 seconds))
 
 
 
