@@ -1,7 +1,7 @@
-				# Knee Bend Exercise
+##				 Knee Bend Exercise
 
 
-STEPS:
+#STEPS:
 Setting up Mediapipe
 Estimating poses
 Extracting joint coordinates
